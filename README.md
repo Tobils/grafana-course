@@ -21,3 +21,4 @@ kubectl port-forward service/grafana 3000:3000 -n monitoring
 
 - [k8s-grafana](https://grafana.com/docs/grafana/latest/setup-grafana/installation/kubernetes/)
 - [playground](https://play.grafana.org/d/000000012/grafana-play-home?orgId=1)
+- [grafana-trnaform](https://grafana.com/docs/grafana/v9.0/panels/transform-data/)
