@@ -4,6 +4,7 @@
 <img src="./ss/01-graph.png">
 <img src="./ss/02-graph-transformation.png">
 <img src="./ss/03-graph-stat.png">
+<img src="./ss/04-graph-bar-gauge.png">
 
 ## Config
 
