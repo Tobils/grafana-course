@@ -5,6 +5,8 @@
 <img src="./ss/02-graph-transformation.png">
 <img src="./ss/03-graph-stat.png">
 <img src="./ss/04-graph-bar-gauge.png">
+<img src="./ss/05-graph-table.png">
+<img src="./ss/06-datasource-mysql.png">
 
 ## Config
 
